@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/SaadPHP/wbpk-pl#readme",
   "devDependencies": {
-    "webpack": "^5.9.0"
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0"
   }
 }
