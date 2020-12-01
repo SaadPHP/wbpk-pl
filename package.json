@@ -1,0 +1,20 @@
+{
+  "name": "wbpk-pl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaadPHP/wbpk-pl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaadPHP/wbpk-pl/issues"
+  },
+  "homepage": "https://github.com/SaadPHP/wbpk-pl#readme"
+}
