@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SaadPHP/wbpk-pl/issues"
   },
-  "homepage": "https://github.com/SaadPHP/wbpk-pl#readme"
+  "homepage": "https://github.com/SaadPHP/wbpk-pl#readme",
+  "devDependencies": {
+    "webpack": "^5.9.0"
+  }
 }
